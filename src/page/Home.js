@@ -8,7 +8,7 @@ const Home = () => {
     <OpenPage hero="defaultHero">
       <Banner title="luxurious rooms" subtitle="deluxe rooms starting at $299">
         <Link to="/rooms" className="btn-primary">
-          our rooms
+          our rooms Service
         </Link>
       </Banner>
     </OpenPage>
